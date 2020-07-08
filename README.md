@@ -1,4 +1,18 @@
+# Weather App
+
+Simple weather application created with "useState" hook. 
+Weather app uses openweathermap api.
+Application was created to grow up skills work  with api.
+
+## First view: 
+![weatherApp_start](https://user-images.githubusercontent.com/50556211/86943261-831feb00-c146-11ea-8064-81202eedae4d.png)
+
+### The application has two different views depending on the temperature. 
+![weatherApp_firstFetch](https://user-images.githubusercontent.com/50556211/86943290-8adf8f80-c146-11ea-87f8-9e2a634d8b68.png) ![weatherApp_secondFetch](https://user-images.githubusercontent.com/50556211/86943300-8dda8000-c146-11ea-8bf0-e4e6f0e505d0.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### 
 
 ## Available Scripts
 
